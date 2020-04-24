@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30857" started-at="2020-04-24T10:21:03Z" finished-at="2020-04-24T10:21:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30857" started-at="2020-04-24T10:21:03Z" finished-at="2020-04-24T10:21:34Z">
+      <class name="com.josealdo.teste.GoogleSearchTest">
+        <test-method status="PASS" signature="google0()[pri:0, instance:com.josealdo.teste.GoogleSearchTest@69f63d95]" name="google0" duration-ms="4608" started-at="2020-04-24T10:21:03Z" finished-at="2020-04-24T10:21:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google0 -->
+        <test-method status="PASS" signature="google1()[pri:0, instance:com.josealdo.teste.GoogleSearchTest@69f63d95]" name="google1" duration-ms="3629" started-at="2020-04-24T10:21:15Z" finished-at="2020-04-24T10:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google1 -->
+      </class> <!-- com.josealdo.teste.GoogleSearchTest -->
+      <class name="com.josealdo.teste.GuruAlert">
+        <test-method status="PASS" signature="idSucess()[pri:0, instance:com.josealdo.teste.GuruAlert@9cd25ff]" name="idSucess" duration-ms="3703" started-at="2020-04-24T10:21:30Z" finished-at="2020-04-24T10:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idSucess -->
+      </class> <!-- com.josealdo.teste.GuruAlert -->
+      <class name="com.josealdo.teste.GuruTestRegister">
+        <test-method status="PASS" signature="loginSucesso()[pri:0, instance:com.josealdo.teste.GuruTestRegister@3574e198]" name="loginSucesso" duration-ms="6710" started-at="2020-04-24T10:21:23Z" finished-at="2020-04-24T10:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSucesso -->
+      </class> <!-- com.josealdo.teste.GuruTestRegister -->
+      <class name="com.josealdo.teste.GuruTest">
+        <test-method status="PASS" signature="loginSucesso()[pri:0, instance:com.josealdo.teste.GuruTest@27e0f2f5]" name="loginSucesso" duration-ms="4502" started-at="2020-04-24T10:21:19Z" finished-at="2020-04-24T10:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSucesso -->
+      </class> <!-- com.josealdo.teste.GuruTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
